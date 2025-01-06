@@ -1,7 +1,21 @@
 # refresh
-Batch file to refresh windows
+Batch file to refresh windows to a near clean slate
 will need to use a powershell to install a browser and 
 File Explorer as these may be affected.
+
+There will still be programs that will act as if they are installed but not.
+would need to use the following to address it
+
+Windows:
+```
+Press Windows + R, type appwiz.cpl, and press Enter.
+Look for the program you want to uninstall, right-click it, and select "Uninstall."
+```
+```
+Mac:
+Go to Finder > Applications.
+Locate the app, right-click it, and select "Move to Trash."
+```
 
 ## Be sure to RUN AS ADMINISTRATOR for it to work properly
 
