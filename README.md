@@ -11,8 +11,8 @@ Windows:
 Press Windows + R, type appwiz.cpl, and press Enter.
 Look for the program you want to uninstall, right-click it, and select "Uninstall."
 ```
-```
 Mac:
+```
 Go to Finder > Applications.
 Locate the app, right-click it, and select "Move to Trash."
 ```
